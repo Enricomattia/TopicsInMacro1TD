@@ -1,1 +1,0 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Enricomattia/TopicsInMacro1TD/tree/main/codes/HEAD?filepath=solow-swan.ipynb)
